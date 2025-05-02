@@ -48,6 +48,6 @@ The Student Management System is a Core Java project that manages student record
 - Verify correct behavior for valid and invalid inputs.  
 
 ## Note
-✅ This project focuses on Core Java concepts only.
--✅ It does not use any external database — all data is stored in-memory using ArrayList.
+- This project focuses on Core Java concepts only.
+- It does not use any external database — all data is stored in-memory using ArrayList.
 
