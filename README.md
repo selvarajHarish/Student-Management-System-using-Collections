@@ -20,7 +20,7 @@ The Student Management System is a Core Java project that manages student record
 ## Steps to Implement
 1. Create the Project Structure
 - Package: collection.Students.com
-- Classes:
+* Classes:
 - Student.java → Model class
 - StudentController.java → Controller class
 - StudentView.java → View class (main method)
