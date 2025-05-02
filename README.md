@@ -49,5 +49,5 @@ The Student Management System is a Core Java project that manages student record
 
 ## Note
 ✅ This project focuses on Core Java concepts only.
-✅ It does not use any external database — all data is stored in-memory using ArrayList.
+-✅ It does not use any external database — all data is stored in-memory using ArrayList.
 
