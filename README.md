@@ -24,6 +24,30 @@ The Student Management System is a Core Java project that manages student record
 - Student.java → Model class
 - StudentController.java → Controller class
 - StudentView.java → View class (main method)
-  
 
+ ## 2.Implement the Model Class (Student.java)
+- Define student attributes like name, phone, email, gender, degree, stream, year of passing, CGPA, placement status, and date of joining.
+- Provide getter, setter methods and override toString().
+
+## 3.Implement the Controller Class (StudentController.java)
+- Add student (addStudents())
+- Display student (displayStudent())
+- Update student (updateStudent())
+- Remove student (removeStudent())
+- Update placement status (updatePlacementStatus())
+- Use ArrayList<Student> to manage student records.
+
+## 4.Implement the View Class (StudentView.java)
+- Provide a menu-driven interface using while loop and switch-case.
+- Call controller methods based on user input.
+  
+## 5.Test the Application
+- Add sample students.
+- Display and check student details.
+- Update and remove records.
+- Verify correct behavior for valid and invalid inputs.  
+
+## Note
+✅ This project focuses on Core Java concepts only.
+✅ It does not use any external database — all data is stored in-memory using ArrayList.
 
