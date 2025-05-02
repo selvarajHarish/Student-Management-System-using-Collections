@@ -1,4 +1,4 @@
-## Student-Management-System-using-Collections
+# Student-Management-System-using-Collections
 
 ## Overview
 The Student Management System is a Core Java project that manages student records using CRUD operations (Create, Read, Update, Delete). It uses ArrayList for data storage and applies the MVC (Model-View-Controller) pattern to separate concerns. The project supports adding students, viewing details, updating student information, updating placement status, and removing student records.
@@ -18,7 +18,7 @@ The Student Management System is a Core Java project that manages student record
 - MVC Pattern(Model,View,Controller)
 
 ## Steps to Implement
-# 1.Create the Project Structure
+## 1.Create the Project Structure
 - Package: collection.Students.com
 * Classes:
 - Student.java → Model class
