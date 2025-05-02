@@ -10,3 +10,20 @@ The Student Management System is a Core Java project that manages student record
 - Remove student records (Delete)
 - Simple console-based menu for easy interaction
 - Uses Date to store the date of joining
+
+## Technologies Used
+- Java (Core Java)
+- Java Collections (ArrayList)
+- Scanner for user input
+- MVC Pattern(Model,View,Controller)
+
+## Steps to Implement
+1. Create the Project Structure
+- Package: collection.Students.com
+- Classes:
+- Student.java → Model class
+- StudentController.java → Controller class
+- StudentView.java → View class (main method)
+  
+
+
